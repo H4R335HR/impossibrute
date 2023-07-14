@@ -2,6 +2,7 @@
 DVWA Brute Force script for Impossible Difficulty - It'll take time but get the job done
 
 ```
+usage: python impossibrute.py [-h] (-u USERNAME | -U USERNAMES_FILE) -P PASSWORDS [-b BASE_URL] [-v] [-x PROXY]
 DVWA Bruteforce Script for Impossible Difficulty
 
 options:
