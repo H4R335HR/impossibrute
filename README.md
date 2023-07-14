@@ -1,7 +1,7 @@
 # impossibrute
-DVWA Brute Force script for Impossible Difficulty
+DVWA Brute Force script for Impossible Difficulty - It'll take time but get the job done
 
-'''
+```
 DVWA Bruteforce Script for Impossible Difficulty
 
 options:
@@ -18,4 +18,4 @@ options:
   -x PROXY, --proxy PROXY
                         Proxy address in the format http://host:port
 
-'''
+```
